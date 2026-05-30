@@ -3,6 +3,8 @@ TLink 是一个基于 RAG（检索增强生成）的联想知识库。不同于�
 <img width="1536" height="1024" alt="Route" src="https://github.com/user-attachments/assets/31f7b9ba-f234-4abc-8468-0ab6ec5a5036" />
 当前效果：
 <img width="1372" height="421" alt="屏幕截图 2026-05-30 123655" src="https://github.com/user-attachments/assets/186e71cf-efe8-4d90-8cda-774d5d4bc612" />
+跨语言
+<img width="1182" height="421" alt="image" src="https://github.com/user-attachments/assets/81568762-bac5-4f7e-8e12-4492bfb90d93" />
 
 #存算分离#动态知识库#可解释性#可靠信源#跨界联想#知识图谱#个性化查询#Time Travel#"Quality in, quality out"
 
