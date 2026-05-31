@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep text files, ignore large binaries)
+*.pdf
+*.epub
+
+# ChromaDB (regenerable)
+chroma_db/
+
+# SQLite (regenerable)
+knowledge.db
+
+# Test/temp
+test_*.py
+rag_results.json
+rag_diversity_eval.json
+
+# Environment
+.env
